@@ -1,4 +1,5 @@
 <h2 id="JZyOy">MOD名称《虚网灵枢》</h2>
+<img src="https://images.steamusercontent.com/ugc/15937845531881748574/19304E7348D8BF69D143FF611DB24592734BE927/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <h2 id="bTCar">别名《赛博道士会梦到电子幽灵吗?》 现已上线!
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3538490121"target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Steam-%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A-brightgreen?logo=steam">
