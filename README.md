@@ -6,7 +6,7 @@
 </a></h2>
 <h2 id="mfL2p">点击加入QQ群
 <a href="https://qm.qq.com/q/x9btaJ8pJC"target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/qq-%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-brightgreen?logo=qq">
+<img alt="Static Badge" src="https://img.shields.io/badge/qq-%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-brightgreen?logo=qq&color=%230000FF">
 </a>
 </h2>
 <h2 id="XgKa4">前言</h2>
