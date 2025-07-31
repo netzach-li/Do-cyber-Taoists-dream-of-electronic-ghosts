@@ -4,7 +4,11 @@
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3538490121"target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Steam-%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A-brightgreen?logo=steam">
 </a></h2>
-<h2 id="mfL2p">点击加入QQ群</h2>
+<h2 id="mfL2p">点击加入QQ群
+<a href="https://qm.qq.com/q/x9btaJ8pJC"target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/qq-%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-brightgreen?logoColor=qq">
+</a>
+</h2>
 <h2 id="XgKa4">前言</h2>
 此mod由古宇辰、白川玖出资制作，原作者乌拉漫天要价，套用他人项目。目前已由Netzach接手无偿重置与维护，并对源代码进行开源工作。
 
