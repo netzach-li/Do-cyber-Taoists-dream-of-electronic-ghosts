@@ -1,6 +1,6 @@
 <h1 id="ibQxB">MOD名称《虚网灵枢》</h1>
 <h2 id="bTCar">**别名《赛博道士会梦到电子幽灵吗？》**  
-现已上线![](https://img.shields.io/badge/Steam-%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A-brightgreen?logo=steam)</h2>
+现已上线! [![GitHub 主页](https://img.shields.io/badge/Steam-%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A-brightgreen?logo=steam)</h2>
 <h2 id="XgKa4">正文</h2>
 
 
